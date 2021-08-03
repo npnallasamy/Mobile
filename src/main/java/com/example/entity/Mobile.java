@@ -1,5 +1,7 @@
 package com.example.entity;
 
+// Mobile Entity Class
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
